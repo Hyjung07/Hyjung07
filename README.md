@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-
-<img src="https://img.shields.io/badge/:badgeContent"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Hyjung07=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Hyjung07=anuraghazra&hide=contribs?hide=issues,prs)
 <!--
 **Hyjung07/Hyjung07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

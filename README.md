@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello ! i am  17year-old high school student whose dream is to be a developer.
+🧣 Hello ! i am  17year-old high school student whose dream is to be a developer.
 
-- major : JAVA , C 언어 , HTML , REACT , JAVASCRIPT
-- contact : gusdbsc@gmail.com
-- affiliation : Seoul Mirim High School 
+- 🎈major : JAVA , C 언어 , HTML , REACT , JAVASCRIPT - - - 
+- 📞contact : gusdbsc@gmail.com
+- 🏫affiliation : Seoul Mirim High School 

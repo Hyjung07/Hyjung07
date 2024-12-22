@@ -1,4 +1,4 @@
-## Hi there 👋
+## My profile 💜
 
 <!--
 **Hyjung07/Hyjung07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello ! i am  17year-old high school student whose dream is to be a developer.
+
+- major : JAVA , C 언어 , HTML , REACT , JAVASCRIPT
+- contact : gusdbsc@gmail.com
+- affiliation : Seoul Mirim High School 
